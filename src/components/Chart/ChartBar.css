@@ -1,0 +1,12 @@
+.chart-bar {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: #eee; */
+}
+
+.chart-bar div {
+    border: 1px solid rgb(0, 0, 0);
+}
